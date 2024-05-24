@@ -11,9 +11,9 @@
 ### PixelPay Mobile Payments for Arcade Games
 An in-progress personal project designed to facilitate mobile payments for arcade games without any physical interaction, including using coins or cards. The project is tentatively named PixelPay and features a retro/pixel theme to match the nostalgia of arcade game players.
 
-* **All-Kotlin backend using Ktor:** Developed a robust backend with Kotlin to ensure high performance and reliability.
-* **Kotlin Native mobile app:** Created a seamless mobile payment experience for arcade game players.
-* **Next.js mobile web and web frontend:** Designed and implemented a responsive and engaging web interface.
+* **All-Kotlin backend using Ktor:** Developing a robust backend with Kotlin to ensure high performance and reliability.
+* **Kotlin Native mobile app:** Creating a seamless mobile payment experience for arcade game players.
+* **Next.js mobile web and web frontend:** Designing and implementing a responsive and engaging web interface.
 
 
 ## Completed Projects
